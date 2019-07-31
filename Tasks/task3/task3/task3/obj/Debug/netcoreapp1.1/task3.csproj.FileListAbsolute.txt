@@ -1,0 +1,9 @@
+c:\users\ягуар\documents\visual studio 2017\Projects\task3\task3\bin\Debug\netcoreapp1.1\task3.deps.json
+c:\users\ягуар\documents\visual studio 2017\Projects\task3\task3\bin\Debug\netcoreapp1.1\task3.runtimeconfig.json
+c:\users\ягуар\documents\visual studio 2017\Projects\task3\task3\bin\Debug\netcoreapp1.1\task3.runtimeconfig.dev.json
+c:\users\ягуар\documents\visual studio 2017\Projects\task3\task3\bin\Debug\netcoreapp1.1\task3.dll
+c:\users\ягуар\documents\visual studio 2017\Projects\task3\task3\bin\Debug\netcoreapp1.1\task3.pdb
+c:\users\ягуар\documents\visual studio 2017\Projects\task3\task3\obj\Debug\netcoreapp1.1\task3.csprojResolveAssemblyReference.cache
+c:\users\ягуар\documents\visual studio 2017\Projects\task3\task3\obj\Debug\netcoreapp1.1\task3.AssemblyInfo.cs
+c:\users\ягуар\documents\visual studio 2017\Projects\task3\task3\obj\Debug\netcoreapp1.1\task3.dll
+c:\users\ягуар\documents\visual studio 2017\Projects\task3\task3\obj\Debug\netcoreapp1.1\task3.pdb

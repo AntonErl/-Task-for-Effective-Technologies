@@ -1,0 +1,155 @@
+Hosting starting
+Hosting started
+Connection id "0HLOLJ6DFIRC9" started.
+Connection id "0HLOLJ6DFIRC9" received FIN.
+Connection id "0HLOLJ6DFIRCA" started.
+Connection id "0HLOLJ6DFIRCA" received FIN.
+Connection id "0HLOLJ6DFIRCA" disconnecting.
+Connection id "0HLOLJ6DFIRC9" disconnecting.
+Connection id "0HLOLJ6DFIRCA" sending FIN.
+Connection id "0HLOLJ6DFIRC9" sending FIN.
+Connection id "0HLOLJ6DFIRC9" sent FIN with status "0".
+Connection id "0HLOLJ6DFIRC9" stopped.
+Connection id "0HLOLJ6DFIRCA" sent FIN with status "0".
+Connection id "0HLOLJ6DFIRCA" stopped.
+Connection id "0HLOLJ6DFIRCB" started.
+Connection id "0HLOLJ6DFIRCC" started.
+Request starting HTTP/1.1 GET http://localhost:1171/api/values  
+Request successfully matched the route with name '(null)' and template 'api/Values'.
+Action 'task3.Controllers.ValuesController.Post (task3)' with id 'fda3ad75-5087-4f59-9a5a-b08ca1cdbe6d' did not match the constraint 'Microsoft.AspNetCore.Mvc.Internal.HttpMethodActionConstraint'
+Executing action task3.Controllers.ValuesController.Get (task3)
+Executing action method task3.Controllers.ValuesController.Get (task3) with arguments ((null)) - ModelState is Valid
+Executed action method task3.Controllers.ValuesController.Get (task3), returned result Microsoft.AspNetCore.Mvc.ObjectResult.
+No information found on request to perform content negotiation.
+Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.JsonOutputFormatter' and content type 'application/json' to write the response.
+Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+Executed action task3.Controllers.ValuesController.Get (task3) in 422.7223ms
+Connection id "0HLOLJ6DFIRCB" completed keep alive response.
+Request finished in 1221.7726ms 200 application/json; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:1171/api/ReadString  
+Request successfully matched the route with name '(null)' and template 'api/ReadString'.
+Action 'task3.Controllers.ReadStringController.Post (task3)' with id '7a0f4f54-26a6-40af-aa2a-bd44a158b840' did not match the constraint 'Microsoft.AspNetCore.Mvc.Internal.HttpMethodActionConstraint'
+Executing action task3.Controllers.ReadStringController.Get (task3)
+Executing action method task3.Controllers.ReadStringController.Get (task3) with arguments ((null)) - ModelState is Valid
+Executed action method task3.Controllers.ReadStringController.Get (task3), returned result Microsoft.AspNetCore.Mvc.ObjectResult.
+No information found on request to perform content negotiation.
+Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.JsonOutputFormatter' and content type 'application/json' to write the response.
+Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+Executed action task3.Controllers.ReadStringController.Get (task3) in 34.6579ms
+Connection id "0HLOLJ6DFIRCB" completed keep alive response.
+Request finished in 65.6846ms 200 application/json; charset=utf-8
+Connection id "0HLOLJ6DFIRCC" received FIN.
+Connection id "0HLOLJ6DFIRCD" started.
+Connection id "0HLOLJ6DFIRCC" disconnecting.
+Connection id "0HLOLJ6DFIRCC" sending FIN.
+Connection id "0HLOLJ6DFIRCC" sent FIN with status "0".
+Connection id "0HLOLJ6DFIRCC" stopped.
+Request starting HTTP/1.1 GET http://localhost:1171/api/ReadString/Help%20me%20plese  
+Request successfully matched the route with name '(null)' and template 'api/ReadString/{id}'.
+Action 'task3.Controllers.ReadStringController.Put (task3)' with id '08072d1f-77b3-4d7a-a27c-f6f556403507' did not match the constraint 'Microsoft.AspNetCore.Mvc.Internal.HttpMethodActionConstraint'
+Action 'task3.Controllers.ReadStringController.Delete (task3)' with id '2982c018-246f-4c03-94f2-997d2b14f2ab' did not match the constraint 'Microsoft.AspNetCore.Mvc.Internal.HttpMethodActionConstraint'
+Executing action task3.Controllers.ReadStringController.Get (task3)
+Executing action method task3.Controllers.ReadStringController.Get (task3) with arguments (Help me plese) - ModelState is Valid
+Executed action method task3.Controllers.ReadStringController.Get (task3), returned result Microsoft.AspNetCore.Mvc.ObjectResult.
+No information found on request to perform content negotiation.
+Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter' and content type 'application/json' to write the response.
+Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+Executed action task3.Controllers.ReadStringController.Get (task3) in 138.7282ms
+Connection id "0HLOLJ6DFIRCB" completed keep alive response.
+Request finished in 174.9514ms 200 application/json; charset=utf-8
+Connection id "0HLOLJ6DFIRCD" received FIN.
+Connection id "0HLOLJ6DFIRCD" disconnecting.
+Connection id "0HLOLJ6DFIRCD" sending FIN.
+Connection id "0HLOLJ6DFIRCD" sent FIN with status "0".
+Connection id "0HLOLJ6DFIRCD" stopped.
+Hosting starting
+Hosting started
+Connection id "0HLOLJDA5JOLG" started.
+Connection id "0HLOLJDA5JOLG" received FIN.
+Connection id "0HLOLJDA5JOLH" started.
+Connection id "0HLOLJDA5JOLH" received FIN.
+Connection id "0HLOLJDA5JOLH" disconnecting.
+Connection id "0HLOLJDA5JOLG" disconnecting.
+Connection id "0HLOLJDA5JOLH" sending FIN.
+Connection id "0HLOLJDA5JOLG" sending FIN.
+Connection id "0HLOLJDA5JOLG" sent FIN with status "0".
+Connection id "0HLOLJDA5JOLG" stopped.
+Connection id "0HLOLJDA5JOLH" sent FIN with status "0".
+Connection id "0HLOLJDA5JOLH" stopped.
+Connection id "0HLOLJDA5JOLI" started.
+Connection id "0HLOLJDA5JOLJ" started.
+Request starting HTTP/1.1 GET http://localhost:1171/api/values  
+The request path /api/values does not match a supported file type
+Request successfully matched the route with name '(null)' and template 'api/Values'.
+Action 'task3.Controllers.ValuesController.Post (task3)' with id '8ae2df58-a0e8-48f1-9b90-708dd77a03f8' did not match the constraint 'Microsoft.AspNetCore.Mvc.Internal.HttpMethodActionConstraint'
+Executing action task3.Controllers.ValuesController.Get (task3)
+Executing action method task3.Controllers.ValuesController.Get (task3) with arguments ((null)) - ModelState is Valid
+Executed action method task3.Controllers.ValuesController.Get (task3), returned result Microsoft.AspNetCore.Mvc.ObjectResult.
+No information found on request to perform content negotiation.
+Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.JsonOutputFormatter' and content type 'application/json' to write the response.
+Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+Executed action task3.Controllers.ValuesController.Get (task3) in 407.1634ms
+Connection id "0HLOLJDA5JOLI" completed keep alive response.
+Request finished in 1234.68ms 200 application/json; charset=utf-8
+Hosting starting
+Hosting started
+Connection id "0HLOLJEK2J2UC" started.
+Connection id "0HLOLJEK2J2UC" received FIN.
+Connection id "0HLOLJEK2J2UC" disconnecting.
+Connection id "0HLOLJEK2J2UC" sending FIN.
+Connection id "0HLOLJEK2J2UC" sent FIN with status "0".
+Connection id "0HLOLJEK2J2UC" stopped.
+Connection id "0HLOLJEK2J2UD" started.
+Connection id "0HLOLJEK2J2UE" started.
+Request starting HTTP/1.1 GET http://localhost:1171/api/values  
+The request path /api/values does not match a supported file type
+Request successfully matched the route with name '(null)' and template 'api/Values'.
+Action 'task3.Controllers.ValuesController.Post (task3)' with id 'c72e3dcf-df77-4c98-ad8e-853d80517743' did not match the constraint 'Microsoft.AspNetCore.Mvc.Internal.HttpMethodActionConstraint'
+Executing action task3.Controllers.ValuesController.Get (task3)
+Executing action method task3.Controllers.ValuesController.Get (task3) with arguments ((null)) - ModelState is Valid
+Executed action method task3.Controllers.ValuesController.Get (task3), returned result Microsoft.AspNetCore.Mvc.ObjectResult.
+No information found on request to perform content negotiation.
+Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.JsonOutputFormatter' and content type 'application/json' to write the response.
+Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+Executed action task3.Controllers.ValuesController.Get (task3) in 443.1628ms
+Connection id "0HLOLJEK2J2UD" completed keep alive response.
+Request finished in 1188.668ms 200 application/json; charset=utf-8
+Connection id "0HLOLJEK2J2UE" received FIN.
+Connection id "0HLOLJEK2J2UE" disconnecting.
+Connection id "0HLOLJEK2J2UE" sending FIN.
+Connection id "0HLOLJEK2J2UE" sent FIN with status "0".
+Connection id "0HLOLJEK2J2UE" stopped.
+Connection id "0HLOLJEK2J2UF" started.
+Request starting HTTP/1.1 GET http://localhost:1171/index  
+The request path /index does not match a supported file type
+Request did not match any routes.
+Connection id "0HLOLJEK2J2UD" completed keep alive response.
+Request finished in 34.654ms 404 
+Connection id "0HLOLJEK2J2UF" received FIN.
+Connection id "0HLOLJEK2J2UF" disconnecting.
+Connection id "0HLOLJEK2J2UF" sending FIN.
+Connection id "0HLOLJEK2J2UF" sent FIN with status "0".
+Connection id "0HLOLJEK2J2UF" stopped.
+Hosting starting
+Hosting started
+Connection id "0HLOLJFJQRM61" started.
+Connection id "0HLOLJFJQRM61" received FIN.
+Connection id "0HLOLJFJQRM61" disconnecting.
+Connection id "0HLOLJFJQRM61" sending FIN.
+Connection id "0HLOLJFJQRM61" sent FIN with status "0".
+Connection id "0HLOLJFJQRM61" stopped.
+Connection id "0HLOLJFJQRM62" started.
+Connection id "0HLOLJFJQRM63" started.
+Request starting HTTP/1.1 GET http://localhost:1171/api/values  
+The request path /api/values does not match a supported file type
+Request successfully matched the route with name '(null)' and template 'api/Values'.
+Action 'task3.Controllers.ValuesController.Post (task3)' with id '7baf5d81-9605-4079-9baa-ee9e39df8063' did not match the constraint 'Microsoft.AspNetCore.Mvc.Internal.HttpMethodActionConstraint'
+Executing action task3.Controllers.ValuesController.Get (task3)
+Executing action method task3.Controllers.ValuesController.Get (task3) with arguments ((null)) - ModelState is Valid
+Executed action method task3.Controllers.ValuesController.Get (task3), returned result Microsoft.AspNetCore.Mvc.ObjectResult.
+No information found on request to perform content negotiation.
+Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.JsonOutputFormatter' and content type 'application/json' to write the response.
+Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+Executed action task3.Controllers.ValuesController.Get (task3) in 368.5583ms
+Connection id "0HLOLJFJQRM62" completed keep alive response.
+Request finished in 1037.2748ms 200 application/json; charset=utf-8

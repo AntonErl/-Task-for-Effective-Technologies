@@ -1,0 +1,9 @@
+c:\users\ягуар\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp1.1\task1.deps.json
+c:\users\ягуар\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp1.1\task1.runtimeconfig.json
+c:\users\ягуар\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp1.1\task1.runtimeconfig.dev.json
+c:\users\ягуар\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp1.1\task1.dll
+c:\users\ягуар\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp1.1\task1.pdb
+c:\users\ягуар\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp1.1\task1.AssemblyInfo.cs
+c:\users\ягуар\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp1.1\task1.dll
+c:\users\ягуар\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp1.1\task1.pdb
+C:\Users\Ягуар\Documents\Visual Studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp1.1\task1.csprojResolveAssemblyReference.cache
